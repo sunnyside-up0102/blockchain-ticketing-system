@@ -26,13 +26,13 @@
 사용자는 특정 티켓의 최초 발행부터 현재까지의 전체 소유권 이전 경로 및 거래 이력을 조회할 수 있어 거래의 투명성을 확인할 수 있습니다.
 
 ## Technology Stack
-Frontend: React.js, Tailwind CSS, Web3.js
+Frontend: React.js, Web3.js
 <br>
-Backend: Node.js, Express.js
+Backend: Node.js
 <br>
-Database: MongoDB
+Database: PostgreSQL
 <br>
-Blockchain: Ethereum (Sepolia Testnet)
+Blockchain: Ethereum
 <br>
 Smart Contract: Solidity, Hardhat
 <br>
