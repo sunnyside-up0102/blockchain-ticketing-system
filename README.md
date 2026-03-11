@@ -38,5 +38,5 @@ Smart Contract: Solidity, Hardhat
 <br>
 ## Team Members
 곽도혁: 시스템 아키텍처 설계 및 스마트 컨트랙트 개발<br>
-곽김김: 백엔드 API 구현 및 데이터베이스 모델링<br>
-김곽곽: 프론트엔드 UI/UX 구현 및 Web3 지갑 연동<br>
+곽써니: 백엔드 API 구현 및 데이터베이스 모델링<br>
+김제니: 프론트엔드 UI/UX 구현 및 Web3 지갑 연동<br>
