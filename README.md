@@ -1,12 +1,12 @@
-Blockchain Ticketing System (블록체인 기반 티켓 예매 및 관리 시스템)
+#Blockchain Ticketing System (블록체인 기반 티켓 예매 및 관리 시스템)
 
-Project Overview
+## Project Overview
 본 프로젝트는 블록체인 기술을 활용하여 티켓의 발행, 거래, 검증 전 과정을 안전하고 투명하게 관리하는 시스템을 제안합니다. 기존 중앙 집중형 플랫폼에서 발생하는 암표 거래 및 티켓 위조 문제를 해결하고, 신뢰할 수 있는 예매 환경을 구축하는 것을 목표로 합니다.
 
-Purpose
+## Purpose
 현재의 티켓 거래 플랫폼은 중앙화된 서버에 의존하여 데이터 위변조 위험이 존재하며, 불법 매크로를 이용한 사재기 및 비정상적인 암표 거래를 차단하는 데 구조적인 한계가 있습니다. 본 시스템은 스마트 컨트랙트를 통해 티켓을 블록체인 기반의 디지털 자산으로 발행하여 거래의 투명성을 확보하고, 명확한 소유권 증명을 통해 부정 거래를 원천적으로 방지하고자 합니다.
 
-Key Features
+## Key Features
 1. 블록체인 기반 티켓 발행
 공연 주최자는 스마트 컨트랙트를 통해 티켓을 발행하며, 해당 정보는 블록체인에 기록되어 위변조를 방지합니다. 이를 통해 각 티켓의 고유성과 최초 소유권이 명확히 보장됩니다.
 
@@ -25,14 +25,18 @@ Key Features
 6. 거래 이력 추적 
 사용자는 특정 티켓의 최초 발행부터 현재까지의 전체 소유권 이전 경로 및 거래 이력을 조회할 수 있어 거래의 투명성을 확인할 수 있습니다.
 
-Technology Stack
+## Technology Stack
 Frontend: React.js, Tailwind CSS, Web3.js
+<br>
 Backend: Node.js, Express.js
+<br>
 Database: MongoDB
+<br>
 Blockchain: Ethereum (Sepolia Testnet)
+<br>
 Smart Contract: Solidity, Hardhat
-
-Team Members
-곽도혁: 시스템 아키텍처 설계 및 스마트 컨트랙트 개발
-곽김김: 백엔드 API 구현 및 데이터베이스 모델링
-김곽곽: 프론트엔드 UI/UX 구현 및 Web3 지갑 연동
+<br>
+## Team Members
+곽도혁: 시스템 아키텍처 설계 및 스마트 컨트랙트 개발<br>
+곽김김: 백엔드 API 구현 및 데이터베이스 모델링<br>
+김곽곽: 프론트엔드 UI/UX 구현 및 Web3 지갑 연동<br>
