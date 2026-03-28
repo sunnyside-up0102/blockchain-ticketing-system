@@ -7,4 +7,7 @@
 - 형상관리 계획서 추가 및 파일 구조 정리
 
 ## v1.2.0
-- Stakeholder 기대치 식별 및 CHANGELOG 작성
+- Stakeholder 기대치 식별 및 CHANGELOG 작성 (실습 2-1)
+
+## v1.3.0
+- GQM 방법 적용 및 블록체인 기반 품질 요소 정의 추가 (실습 2-2)
